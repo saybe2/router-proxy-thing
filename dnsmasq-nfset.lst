@@ -1045,3 +1045,4 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/purpurmc.org/4#inet#fw4#vpn_domains
 nftset=/nickuc.com/4#inet#fw4#vpn_domains
+nftset=/cloudflare.com/4#inet#fw4#vpn_domains
