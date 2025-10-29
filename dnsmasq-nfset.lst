@@ -1048,5 +1048,6 @@ nftset=/nickuc.com/4#inet#fw4#vpn_domains
 nftset=/cloudflare.com/4#inet#fw4#vpn_domains
 nftset=/papermc.io/4#inet#fw4#vpn_domains
 nftset=/github.com/4#inet#fw4#vpn_domains
+nftset=/ajay.app/4#inet#fw4#vpn_domains
 nftset=/githubusercontent.com/4#inet#fw4#vpn_domains
 nftset=/pterodactyl.io/4#inet#fw4#vpn_domains
