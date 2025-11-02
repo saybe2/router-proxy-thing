@@ -1052,7 +1052,6 @@ nftset=/ajay.app/4#inet#fw4#vpn_domains
 nftset=/githubusercontent.com/4#inet#fw4#vpn_domains
 nftset=/pterodactyl.io/4#inet#fw4#vpn_domains
 nftset=/maven.org/4#inet#fw4#vpn_domains
-nftset=/foldingathome.org/4#inet#fw4#vpn_domains
 nftset=/mojang.com/4#inet#fw4#vpn_domains
 nftset=/minecraft.net/4#inet#fw4#vpn_domains
 nftset=/loohpjames.com/4#inet#fw4#vpn_domains
