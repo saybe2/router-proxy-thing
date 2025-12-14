@@ -1060,3 +1060,6 @@ nftset=/foldingathome.org/4#inet#fw4#vpn_domains
 nftset=/scarsz.me/4#inet#fw4#vpn_domains
 nftset=/jellyfin.org/4#inet#fw4#vpn_domains
 nftset=/minecraftservices.com/4#inet#fw4#vpn_domains
+nftset=/whatsapp.com/4#inet#fw4#vpn_domains
+nftset=/whatsapp.net/4#inet#fw4#vpn_domains
+nftset=/fbcdn.net/4#inet#fw4#vpn_domains
