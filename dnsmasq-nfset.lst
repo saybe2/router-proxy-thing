@@ -1055,3 +1055,5 @@ nftset=/2ip.io/4#inet#fw4#vpn_domains
 nftset=/hoxen.one/4#inet#fw4#vpn_domains
 nftset=/nebula.style/4#inet#fw4#vpn_domains
 nftset=/innon.org/4#inet#fw4#vpn_domains
+nftset=/notletters.com/4#inet#fw4#vpn_domains
+nftset=/kibty.town/4#inet#fw4#vpn_domains
