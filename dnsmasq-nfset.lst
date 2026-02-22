@@ -1065,6 +1065,7 @@ nftset=/telegra.ph/4#inet#fw4#vpn_domains
 nftset=/tgraph.io/4#inet#fw4#vpn_domains
 nftset=/telesco.pe/4#inet#fw4#vpn_domains
 nftset=/nyist.edu.cn/4#inet#fw4#vpn_domains
+nftset=/minecraftforge.net/4#inet#fw4#vpn_domains
 nftset=/innon.org/4#inet#fw4#vpn_domains
 nftset=/notletters.com/4#inet#fw4#vpn_domains
 nftset=/kibty.town/4#inet#fw4#vpn_domains
