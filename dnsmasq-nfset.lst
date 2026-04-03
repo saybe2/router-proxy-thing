@@ -1069,6 +1069,3 @@ nftset=/minecraftforge.net/4#inet#fw4#vpn_domains
 nftset=/innon.org/4#inet#fw4#vpn_domains
 nftset=/notletters.com/4#inet#fw4#vpn_domains
 nftset=/kibty.town/4#inet#fw4#vpn_domains
-nftset=/jackboxgames.com/4#inet#fw4#vpn_domains
-nftset=/jackbox.tv/4#inet#fw4#vpn_domains
-nftset=/jackbox.fun/4#inet#fw4#vpn_domains
